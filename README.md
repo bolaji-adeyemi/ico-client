@@ -12,4 +12,4 @@ npm install
 gulp
 ```
 
-You can view the live site at [cryptogene.co](https://cryptogene.co)
+You can view the live site at [cryptogene.co](http://cryptogene.co)
